@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ranvirsv
-- 👀 Interested in Photography, Astrophysics, and Technology
 - 🌱 Studing Computer Science in Inidana University Bloomington
-- 💞️ I’m looking to collaborate on any projects you might have to improve my skills, I know C++, JavaScript, and Java.
+- 💞️ I’m looking to collaborate on projects related to Computer vision, and recomender systems.
 - 📫 How to reach me 
 - My linkdin https://www.linkedin.com/in/ranvir-singh-virk/
 - My email ranvirsv@gmail.com
