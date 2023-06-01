@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Ranvirsv
-- 🌱 Studing Computer Science in Inidana University Bloomington
-- 💞️ I’m looking to collaborate on projects related to Computer vision, and recomender systems.
-- 📫 How to reach me 
-- My linkdin https://www.linkedin.com/in/ranvir-singh-virk/
-- My email ranvirsv@gmail.com
+[![Ranvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranvirsv)](https://github.com/ranvirsv/github-readme-stats)
