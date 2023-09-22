@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranvir</h1>
-<h3 align="center">A passionate about Data Science and ML, and also have some experience in Software Engineering</h3>
+<h3 align="center">Passionate about Data Science and ML, and also have some experience in Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranvirsv&label=Profile%20views&color=0e75b6&style=flat" alt="ranvirsv" /> </p>
 
