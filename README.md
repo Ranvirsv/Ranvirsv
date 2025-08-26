@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranvirsv" alt="ranvirsv" /></a> </p>
 
-- 🔭 I’m currently working as **a Research Assistant at Indiana University**
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **a large scale Data Science project**
-
-- 📫 How to reach me **ranvirsv@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> https://www.linkedin.com/in/ranvir-singh-virk/
 </p>
