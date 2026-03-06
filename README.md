@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ranvir</h1>
 <h3 align="center">Data Scientist | MS in CS (IUB) ➔ MDSI Candidate (UTS)</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ranvirsv&label=Profile%20views&color=0e75b6&style=flat" alt="ranvirsv" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranvirsv" alt="ranvirsv" /></a> 
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
 * 🎓 **Education:** Completed my MS in Computer Science at Indiana University Bloomington. Starting my Master of Data Science and Innovation (MDSI) at the University of Technology Sydney (UTS) in July!
 * 🌏 **Location:** Relocating to Sydney in mid-2026.
-* 🔭 **Currently Working On:** Building a comprehensive mood-based anime recommendation system featuring soundtrack audio analysis, a custom API, and MLOps.
-* 📝 **Research:** Contributed to the paper *"GraphEidos: A Dataset of Visual Rhetoric in Digital Humanities"*.
+* 🔭 **Currently Working On:** Building a comprehensive mood-based anime recommendation system featuring soundtrack audio analysis.
+* 📝 **Research:** Contributed to the paper <a href="https://doi.org/10.5334/johd.331">*"GraphEidos: A Dataset of Visual Rhetoric in Digital Humanities"*</a>.
 * 🌱 **Currently Learning:** Diving deeper into MLOps, preparing for Research Assistant roles, and studying Japanese. 
-* ⚡ **Fun Fact:** When I'm not coding, I'm usually cooking up a high-quality meal at home or researching ETF investments.
+* ⚡ **Fun Fact:** When I'm not coding, I'm usually cooking up a high-quality meal at home or deep diving into my new obsession.
 * 📫 **Let's Connect:** <a href="https://www.linkedin.com/in/ranvir-singh-virk/">LinkedIn</a>
 
 ---
