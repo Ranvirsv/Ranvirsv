@@ -10,7 +10,8 @@
 * 🔭 **Currently Working On:** Building a comprehensive mood-based anime recommendation system featuring soundtrack audio analysis.
 * 📝 **Research:** Contributed to the paper <a href="https://doi.org/10.5334/johd.331">*"GraphEidos: A Dataset of Visual Rhetoric in Digital Humanities"*</a>.
 * 🌱 **Currently Learning:** Diving deeper into MLOps, preparing for Research Assistant roles, and studying Japanese. 
-* ⚡ **Fun Fact:** When I'm not coding, I'm usually cooking up a high-quality meal at home or deep diving into my new obsession.
+* ⚡ **Fun Fact:** When I'm not coding, I like cooking at home or deep diving into my new obsession.
+* 🕸️ **Website:** https://ranvirsv.com
 * 📫 **Let's Connect:** <a href="https://www.linkedin.com/in/ranvir-singh-virk/">LinkedIn</a>
 
 ---
